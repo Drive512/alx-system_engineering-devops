@@ -1,2 +1,2 @@
 #!/bin/bash
-chmo -Rugo+x.
+chmod -R+x .
